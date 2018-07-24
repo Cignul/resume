@@ -2,5 +2,9 @@
     color: cornflowerblue;
 }
 
-a { text-decoration: none;
-    text-emphasis-color: black}
+/* a { text-decoration: none;
+    text-emphasis-color: black} */
+#about {
+    color:blueviolet;
+    background-color: yellow;
+}
